@@ -18,10 +18,10 @@ That the committee {approves/declines the proposed action}.
 ## Vote Results
 
 * Chris Aniszczyk - {approve/decline/abstain/absent}
-* VM Brasseur - {approve/decline/abstain/absent}
-* Remy Decausemaker - {approve/decline/abstain/absent}
+* Stormy Peters - {approve/decline/abstain/absent}
+* Dawn Foster - {approve/decline/abstain/absent}
 * Kevin P. Fleming - {approve/decline/abstain/absent}
-* Jeff McAffer - {approve/decline/abstain/absent}
+* Stephen Jacobs - {approve/decline/abstain/absent}
 * Duane O'Brien - {approve/decline/abstain/absent}
 * Ashley Wolf - {approve/decline/abstain/absent}
 
